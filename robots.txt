@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://h0pi.github.io/sitemap.xml
